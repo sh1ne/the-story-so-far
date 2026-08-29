@@ -1,0 +1,15 @@
+{
+  "name": "The Story So Far",
+  "short_name": "Story So Far",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3efe6",
+  "theme_color": "#f3efe6",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

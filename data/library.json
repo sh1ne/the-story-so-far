@@ -1,0 +1,1777 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "animals",
+      "title": "Animals",
+      "description": "Useful animal references for map-making.",
+      "cover": "Horse (PSF).png",
+      "subcategories": [
+        {
+          "id": "horses",
+          "title": "Horses",
+          "images": [
+            {
+              "file": "Horse (PSF).png",
+              "title": "Horse",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Horse_(PSF).png"
+            },
+            {
+              "file": "Horse in harness (line art).jpg",
+              "title": "Horse in harness",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Horse_in_harness_(line_art).jpg"
+            },
+            {
+              "file": "Harnessed Horse Drawing.jpg",
+              "title": "Harnessed horse",
+              "creator": "Harrison Weir",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Harnessed_Horse_Drawing.jpg"
+            },
+            {
+              "file": "Rearing Horse.jpg",
+              "title": "Rearing horse",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Rearing_Horse.jpg"
+            },
+            {
+              "file": "Arabian horse shade drawing (46733132272).jpg",
+              "title": "Arabian horse",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Arabian_horse_shade_drawing_(46733132272).jpg"
+            },
+            {
+              "file": "Horse and Foal Drawing.jpg",
+              "title": "Horse and foal",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Horse_and_Foal_Drawing.jpg"
+            },
+            {
+              "file": "Boy on a Horse.jpg",
+              "title": "Rider on horse",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Boy_on_a_Horse.jpg"
+            },
+            {
+              "file": "Cheval de Dongolah.jpg",
+              "title": "Horse profile",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Cheval_de_Dongolah.jpg"
+            }
+          ]
+        },
+        {
+          "id": "dogs",
+          "title": "Dogs",
+          "images": [
+            {
+              "file": "Dog 2 (PSF).png",
+              "title": "Dog",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Dog_2_(PSF).png"
+            },
+            {
+              "file": "Dog 1 (PSF).png",
+              "title": "Dog with handler",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Dog_1_(PSF).png"
+            },
+            {
+              "file": "German Shepherd (PSF).png",
+              "title": "German shepherd",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:German_Shepherd_(PSF).png"
+            },
+            {
+              "file": "Golden Retriever - Dog (PSF).png",
+              "title": "Golden retriever",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Golden_Retriever_-_Dog_(PSF).png"
+            },
+            {
+              "file": "Dingo (PSF).png",
+              "title": "Dingo",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Dingo_(PSF).png"
+            },
+            {
+              "file": "Greyhound (PSF).png",
+              "title": "Greyhound",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Greyhound_(PSF).png"
+            },
+            {
+              "file": "Dalmatian (PSF).png",
+              "title": "Dalmatian",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Dalmatian_(PSF).png"
+            },
+            {
+              "file": "Basset Hound Dog (PSF).png",
+              "title": "Basset hound",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Basset_Hound_Dog_(PSF).png"
+            }
+          ]
+        },
+        {
+          "id": "cats",
+          "title": "Cats",
+          "images": [
+            {
+              "file": "Cat (Siamese) (PSF).jpg",
+              "title": "Siamese cat",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Cat_(Siamese)_(PSF).jpg"
+            },
+            {
+              "file": "Brown Cat Drawing.jpg",
+              "title": "Tabby cat",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Brown_Cat_Drawing.jpg"
+            },
+            {
+              "file": "Hissing Cat Drawing.jpg",
+              "title": "Hissing cat",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Hissing_Cat_Drawing.jpg"
+            },
+            {
+              "file": "Lazy Cat Drawing.jpg",
+              "title": "Lazy cat",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Lazy_Cat_Drawing.jpg"
+            },
+            {
+              "file": "Black and White Cat Drawing.jpg",
+              "title": "Cat portrait",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Black_and_White_Cat_Drawing.jpg"
+            }
+          ]
+        },
+        {
+          "id": "birds",
+          "title": "Birds",
+          "images": [
+            {
+              "file": "Blackbird (PSF).png",
+              "title": "Blackbird",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Blackbird_(PSF).png"
+            },
+            {
+              "file": "Blue Tit (PSF).png",
+              "title": "Blue tit",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Blue_Tit_(PSF).png"
+            },
+            {
+              "file": "Bluebird (PSF).jpg",
+              "title": "Bluebird",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Bluebird_(PSF).jpg"
+            },
+            {
+              "file": "Bluejay2 (PSF).jpg",
+              "title": "Blue jay",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Bluejay2_(PSF).jpg"
+            },
+            {
+              "file": "Bobwhite (Quail) (PSF).jpg",
+              "title": "Quail",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Bobwhite_(Quail)_(PSF).jpg"
+            },
+            {
+              "file": "Kiwi (PSF).png",
+              "title": "Kiwi",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Kiwi_(PSF).png"
+            },
+            {
+              "file": "Lapwing (PSF).png",
+              "title": "Lapwing",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Lapwing_(PSF).png"
+            },
+            {
+              "file": "Secretary bird (PSF).png",
+              "title": "Secretary bird",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Secretary_bird_(PSF).png"
+            }
+          ]
+        },
+        {
+          "id": "fish",
+          "title": "Fish",
+          "images": [
+            {
+              "file": "Anchovy (PSF).png",
+              "title": "Anchovy",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Anchovy_(PSF).png"
+            },
+            {
+              "file": "Archerfish (PSF).png",
+              "title": "Archerfish",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Archerfish_(PSF).png"
+            },
+            {
+              "file": "Carp (PSF).jpg",
+              "title": "Carp",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Carp_(PSF).jpg"
+            },
+            {
+              "file": "Catfish (PSF).jpg",
+              "title": "Catfish",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Catfish_(PSF).jpg"
+            },
+            {
+              "file": "Flying Fish (PSF).png",
+              "title": "Flying fish",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Flying_Fish_(PSF).png"
+            },
+            {
+              "file": "Goldfish (PSF).png",
+              "title": "Goldfish",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Goldfish_(PSF).png"
+            },
+            {
+              "file": "Hammerhead shark (line art) (PSF H-420004 (cropped)).png",
+              "title": "Hammerhead shark",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Hammerhead_shark_(line_art)_(PSF_H-420004_(cropped)).png"
+            },
+            {
+              "file": "Trout (PSF).png",
+              "title": "Trout",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Trout_(PSF).png"
+            }
+          ]
+        },
+        {
+          "id": "wild",
+          "title": "Wild Animals",
+          "images": [
+            {
+              "file": "Prairie dog (PSF).png",
+              "title": "Prairie dog",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Prairie_dog_(PSF).png"
+            },
+            {
+              "file": "Deerhound (PSF).png",
+              "title": "Deerhound",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Deerhound_(PSF).png"
+            },
+            {
+              "file": "Dingo (PSF).png",
+              "title": "Dingo",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Dingo_(PSF).png"
+            },
+            {
+              "file": "Greyhound (PSF).png",
+              "title": "Greyhound",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Greyhound_(PSF).png"
+            },
+            {
+              "file": "Horse (PSF).png",
+              "title": "Horse",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Horse_(PSF).png"
+            },
+            {
+              "file": "Secretary bird (PSF).png",
+              "title": "Bird",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Secretary_bird_(PSF).png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "weapons",
+      "title": "Weapons",
+      "description": "Blades, bows, shields and map-ready weapon references.",
+      "cover": "Sword (PSF).png",
+      "subcategories": [
+        {
+          "id": "swords",
+          "title": "Swords",
+          "images": [
+            {
+              "file": "Sword (PSF).png",
+              "title": "Sword",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Sword_(PSF).png"
+            },
+            {
+              "file": "Senseschwert.png",
+              "title": "Scythe sword",
+              "creator": "Auguste Frédéric Demmin",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Senseschwert.png"
+            },
+            {
+              "file": "Drawing of a jian sword.JPG",
+              "title": "Jian sword",
+              "creator": "Own work",
+              "license": "CC0 1.0",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Drawing_of_a_jian_sword.JPG"
+            },
+            {
+              "file": "Boeheim (386).jpg",
+              "title": "Sword study",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Boeheim_(386).jpg"
+            },
+            {
+              "file": "Boeheim (400).jpg",
+              "title": "Weapon study",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Boeheim_(400).jpg"
+            }
+          ]
+        },
+        {
+          "id": "axes",
+          "title": "Axes",
+          "images": [
+            {
+              "file": "Battle-axe blade (PSF).png",
+              "title": "Battle axe",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Battle-axe_blade_(PSF).png"
+            },
+            {
+              "file": "Boeheim (400).jpg",
+              "title": "Axe / weapon study",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Boeheim_(400).jpg"
+            },
+            {
+              "file": "Boeheim (386).jpg",
+              "title": "Historic weapon study",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Boeheim_(386).jpg"
+            },
+            {
+              "file": "Abatis (PSF).png",
+              "title": "Sharpened stakes",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Abatis_(PSF).png"
+            }
+          ]
+        },
+        {
+          "id": "bows",
+          "title": "Bows",
+          "images": [
+            {
+              "file": "Bow drawing in VIII century.jpg",
+              "title": "Historical bow",
+              "creator": "Henry Saint-George",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Bow_drawing_in_VIII_century.jpg"
+            },
+            {
+              "file": "Arbalest (PSF).png",
+              "title": "Crossbow",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Arbalest_(PSF).png"
+            },
+            {
+              "file": "Arrow (PSF).png",
+              "title": "Arrow",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Arrow_(PSF).png"
+            },
+            {
+              "file": "Amentum 1.1 - Anthony Rich, Illustrated Companion to the Latin Dictionary, and Greek Lexicon, p. 25.jpg",
+              "title": "Ancient throwing weapon",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Amentum_1.1_-_Anthony_Rich%2C_Illustrated_Companion_to_the_Latin_Dictionary%2C_and_Greek_Lexicon%2C_p._25.jpg"
+            }
+          ]
+        },
+        {
+          "id": "shields",
+          "title": "Shields",
+          "images": [
+            {
+              "file": "Witham Shield drawing of 1863.jpg",
+              "title": "Witham shield",
+              "creator": "J. Kemble",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Witham_Shield_drawing_of_1863.jpg"
+            },
+            {
+              "file": "Caparison (PSF) vector.svg",
+              "title": "Armored horse gear",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Caparison_(PSF)_vector.svg"
+            },
+            {
+              "file": "Sword (PSF).png",
+              "title": "Sword and shield inspiration",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Sword_(PSF).png"
+            }
+          ]
+        },
+        {
+          "id": "fantasy",
+          "title": "Fantasy Weapons",
+          "images": [
+            {
+              "file": "Abatis (PSF).png",
+              "title": "Abatis",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Abatis_(PSF).png"
+            },
+            {
+              "file": "Valari.svg",
+              "title": "Valari",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Valari.svg"
+            },
+            {
+              "file": "Wedge Boomerang.svg",
+              "title": "Boomerang",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Wedge_Boomerang.svg"
+            },
+            {
+              "file": "Battle-axe blade (PSF).png",
+              "title": "Fantasy axe",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Battle-axe_blade_(PSF).png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "buildings",
+      "title": "Buildings",
+      "description": "Houses, castles, towers and structures for fictional maps.",
+      "cover": "Castle (PSF).png",
+      "subcategories": [
+        {
+          "id": "houses",
+          "title": "Houses",
+          "images": [
+            {
+              "file": "English House Drawing.jpg",
+              "title": "English house",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:English_House_Drawing.jpg"
+            },
+            {
+              "file": "English Tudor House Drawing.jpg",
+              "title": "Tudor house",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:English_Tudor_House_Drawing.jpg"
+            },
+            {
+              "file": "Drawing of an English Tudor House.jpg",
+              "title": "Tudor cottage",
+              "creator": "Kate Greenaway",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Drawing_of_an_English_Tudor_House.jpg"
+            },
+            {
+              "file": "Castle (PSF).png",
+              "title": "Stone building",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Castle_(PSF).png"
+            },
+            {
+              "file": "Blockhouse (PSF).png",
+              "title": "Blockhouse",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Blockhouse_(PSF).png"
+            }
+          ]
+        },
+        {
+          "id": "castles",
+          "title": "Castles",
+          "images": [
+            {
+              "file": "Castle (PSF).png",
+              "title": "Castle",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Castle_(PSF).png"
+            },
+            {
+              "file": "Bletsoe Castle, Bedfordshire, drawn by Thomas Fisher, 1817.png",
+              "title": "Castle study",
+              "creator": "Thomas Fisher",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Bletsoe_Castle%2C_Bedfordshire%2C_drawn_by_Thomas_Fisher%2C_1817.png"
+            },
+            {
+              "file": "Dover Castle, 19th-century drawing.jpg",
+              "title": "Dover Castle",
+              "creator": "David MacGibbon and Thomas Ross",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Dover_Castle%2C_19th-century_drawing.jpg"
+            },
+            {
+              "file": "Drawing, Castle by Water, boat, trees, possibly 1868 (CH 18202901).jpg",
+              "title": "Castle by water",
+              "creator": "Frederic Edwin Church",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Drawing%2C_Castle_by_Water%2C_boat%2C_trees%2C_possibly_1868_(CH_18202901).jpg"
+            },
+            {
+              "file": "Motta, ballium, et totum castellum.png",
+              "title": "Motte and bailey castle",
+              "creator": "Rafaelgarcia",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Motta%2C_ballium%2C_et_totum_castellum.png"
+            }
+          ]
+        },
+        {
+          "id": "towers",
+          "title": "Towers",
+          "images": [
+            {
+              "file": "Barnard's fanless self-cooling tower.jpg",
+              "title": "Tower study",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Barnard%27s_fanless_self-cooling_tower.jpg"
+            },
+            {
+              "file": "Drawing, Plans, elevation, and section of the tower in Chiaravalle, Milanese, Italy, September 25, 1887 (CH 18570525).jpg",
+              "title": "Tower plan",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Drawing%2C_Plans%2C_elevation%2C_and_section_of_the_tower_in_Chiaravalle%2C_Milanese%2C_Italy%2C_September_25%2C_1887_(CH_18570525).jpg"
+            },
+            {
+              "file": "Blockhouse (PSF).png",
+              "title": "Blockhouse",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Blockhouse_(PSF).png"
+            },
+            {
+              "file": "Bridge (PSF).png",
+              "title": "Bridge",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Bridge_(PSF).png"
+            }
+          ]
+        },
+        {
+          "id": "temples",
+          "title": "Churches & Temples",
+          "images": [
+            {
+              "file": "Church of St. Michael, Southfields - line drawing.png",
+              "title": "Church",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Church_of_St._Michael%2C_Southfields_-_line_drawing.png"
+            },
+            {
+              "file": "Church and Graveyard Drawing.jpg",
+              "title": "Church and graveyard",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Church_and_Graveyard_Drawing.jpg"
+            },
+            {
+              "file": "Walking to Church Drawing.jpg",
+              "title": "Village church scene",
+              "creator": "Randolph Caldecott",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Walking_to_Church_Drawing.jpg"
+            },
+            {
+              "file": "Cathedrals and churches of the Rhine (1905) (14777085811).jpg",
+              "title": "Cathedral study",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Cathedrals_and_churches_of_the_Rhine_(1905)_(14777085811).jpg"
+            }
+          ]
+        },
+        {
+          "id": "village",
+          "title": "Shops & Inns",
+          "images": [
+            {
+              "file": "Public House Drawing.jpg",
+              "title": "Public house / inn",
+              "creator": "Randolph Caldecott",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Public_House_Drawing.jpg"
+            },
+            {
+              "file": "English House Drawing.jpg",
+              "title": "House",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:English_House_Drawing.jpg"
+            },
+            {
+              "file": "Bridge (PSF).png",
+              "title": "Bridge",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Bridge_(PSF).png"
+            },
+            {
+              "file": "Castle (PSF).png",
+              "title": "Large building",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Castle_(PSF).png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "title": "People",
+      "description": "Simple figures, poses and story characters.",
+      "cover": "Profile 3 (PSF).png",
+      "subcategories": [
+        {
+          "id": "standing",
+          "title": "Standing Figures",
+          "images": [
+            {
+              "file": "Profile 3 (PSF).png",
+              "title": "Profile",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Profile_3_(PSF).png"
+            },
+            {
+              "file": "Adz (PSF).png",
+              "title": "Standing figure",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Adz_(PSF).png"
+            },
+            {
+              "file": "Flashlight (PSF).png",
+              "title": "Standing figure with object",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Flashlight_(PSF).png"
+            },
+            {
+              "file": "018 Ausseer um 1890.jpg",
+              "title": "Traveler figure",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:018_Ausseer_um_1890.jpg"
+            },
+            {
+              "file": "Geronimo de Alderete.jpg",
+              "title": "Historical figure",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Geronimo_de_Alderete.jpg"
+            },
+            {
+              "file": "Bertillon - Identification anthropométrique (1893) 252 n&b.png",
+              "title": "Standing figure",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Bertillon_-_Identification_anthropom%C3%A9trique_(1893)_252_n%26b.png"
+            }
+          ]
+        },
+        {
+          "id": "warriors",
+          "title": "Warriors",
+          "images": [
+            {
+              "file": "Assyrian spearman · HHWI469.svg",
+              "title": "Spearman",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Assyrian_spearman_%C2%B7_HHWI469.svg"
+            },
+            {
+              "file": "Profile 3 (PSF).png",
+              "title": "Profile",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Profile_3_(PSF).png"
+            },
+            {
+              "file": "Adz (PSF).png",
+              "title": "Standing figure",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Adz_(PSF).png"
+            },
+            {
+              "file": "Geronimo de Alderete.jpg",
+              "title": "Historical figure",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Geronimo_de_Alderete.jpg"
+            },
+            {
+              "file": "Bertillon - Identification anthropométrique (1893) 253 n&b.png",
+              "title": "Standing figure",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Bertillon_-_Identification_anthropom%C3%A9trique_(1893)_253_n%26b.png"
+            }
+          ]
+        },
+        {
+          "id": "travelers",
+          "title": "Travelers",
+          "images": [
+            {
+              "file": "018 Ausseer um 1890.jpg",
+              "title": "Traveler figure",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:018_Ausseer_um_1890.jpg"
+            },
+            {
+              "file": "Profile 3 (PSF).png",
+              "title": "Profile",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Profile_3_(PSF).png"
+            },
+            {
+              "file": "Adz (PSF).png",
+              "title": "Standing figure",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Adz_(PSF).png"
+            },
+            {
+              "file": "Geronimo de Alderete.jpg",
+              "title": "Historical figure",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Geronimo_de_Alderete.jpg"
+            }
+          ]
+        },
+        {
+          "id": "groups",
+          "title": "Groups",
+          "images": [
+            {
+              "file": "Archaeological camp for new generations.jpg",
+              "title": "Camp scene",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Archaeological_camp_for_new_generations.jpg"
+            },
+            {
+              "file": "Anansi-44.png",
+              "title": "Group scene",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Anansi-44.png"
+            },
+            {
+              "file": "Allais - En ribouldinguant (page 083 crop).jpg",
+              "title": "Crowd scene",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Allais_-_En_ribouldinguant_(page_083_crop).jpg"
+            },
+            {
+              "file": "1897-05-29, Blanco y Negro, Flores a María, G. E. Chiorino.jpg",
+              "title": "People scene",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:1897-05-29%2C_Blanco_y_Negro%2C_Flores_a_Mar%C3%ADa%2C_G._E._Chiorino.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "plants",
+      "title": "Plants",
+      "description": "Trees, crops, flowers and wild growth for the map.",
+      "cover": "Beech tree (PSF).png",
+      "subcategories": [
+        {
+          "id": "trees",
+          "title": "Trees",
+          "images": [
+            {
+              "file": "Acacia (PSF).png",
+              "title": "Acacia",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Acacia_(PSF).png"
+            },
+            {
+              "file": "Beech tree (PSF).png",
+              "title": "Beech tree",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Beech_tree_(PSF).png"
+            },
+            {
+              "file": "Banyan tree (PSF).png",
+              "title": "Banyan tree",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Banyan_tree_(PSF).png"
+            },
+            {
+              "file": "Horse chestnut (PSF).png",
+              "title": "Horse chestnut",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Horse_chestnut_(PSF).png"
+            },
+            {
+              "file": "Drawing of Trees.jpg",
+              "title": "Tree study",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Drawing_of_Trees.jpg"
+            },
+            {
+              "file": "Large Tree Drawing.jpg",
+              "title": "Large tree",
+              "creator": "Joseph Martin Kronheim",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Large_Tree_Drawing.jpg"
+            }
+          ]
+        },
+        {
+          "id": "flowers",
+          "title": "Flowers",
+          "images": [
+            {
+              "file": "Rose Flower (PSF).png",
+              "title": "Rose",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Rose_Flower_(PSF).png"
+            },
+            {
+              "file": "Hollyhock (PSF).png",
+              "title": "Hollyhock",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Hollyhock_(PSF).png"
+            },
+            {
+              "file": "Chrysanthemum (PSF).jpg",
+              "title": "Chrysanthemum",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Chrysanthemum_(PSF).jpg"
+            },
+            {
+              "file": "Crocus (PSF).png",
+              "title": "Crocus",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Crocus_(PSF).png"
+            },
+            {
+              "file": "Dandelion (PSF).png",
+              "title": "Dandelion",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Dandelion_(PSF).png"
+            },
+            {
+              "file": "Cowslip (PSF).png",
+              "title": "Cowslip",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Cowslip_(PSF).png"
+            }
+          ]
+        },
+        {
+          "id": "crops",
+          "title": "Crops",
+          "images": [
+            {
+              "file": "Banana (PSF).png",
+              "title": "Banana plant",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Banana_(PSF).png"
+            },
+            {
+              "file": "Cotton plant (PSF).png",
+              "title": "Cotton plant",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Cotton_plant_(PSF).png"
+            },
+            {
+              "file": "Clover (PSF).jpg",
+              "title": "Clover",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Clover_(PSF).jpg"
+            },
+            {
+              "file": "Common Cactus (PSF).png",
+              "title": "Cactus",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Common_Cactus_(PSF).png"
+            },
+            {
+              "file": "Holly (PSF).png",
+              "title": "Holly",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Holly_(PSF).png"
+            },
+            {
+              "file": "Honeysuckle (PSF).png",
+              "title": "Honeysuckle",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Honeysuckle_(PSF).png"
+            }
+          ]
+        },
+        {
+          "id": "vines",
+          "title": "Bushes & Vines",
+          "images": [
+            {
+              "file": "Honeysuckle 2 (PSF).png",
+              "title": "Honeysuckle",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Honeysuckle_2_(PSF).png"
+            },
+            {
+              "file": "Hop (PSF).png",
+              "title": "Hop vine",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Hop_(PSF).png"
+            },
+            {
+              "file": "Horehound (PSF).png",
+              "title": "Horehound",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Horehound_(PSF).png"
+            },
+            {
+              "file": "Honeylocusts (PSF).png",
+              "title": "Honey locust",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Honeylocusts_(PSF).png"
+            }
+          ]
+        },
+        {
+          "id": "wild",
+          "title": "Mushrooms",
+          "images": [
+            {
+              "file": "Aloe 1 (PSF).png",
+              "title": "Aloe",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Aloe_1_(PSF).png"
+            },
+            {
+              "file": "Aloe 2 (PSF).png",
+              "title": "Aloe variation",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Aloe_2_(PSF).png"
+            },
+            {
+              "file": "Aconite (PSF).png",
+              "title": "Aconite",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Aconite_(PSF).png"
+            },
+            {
+              "file": "Adder's tongue (PSF).png",
+              "title": "Adder's tongue",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Adder%27s_tongue_(PSF).png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vehicles",
+      "title": "Vehicles",
+      "description": "Wagons, boats, ships and other transport.",
+      "cover": "Covered Wagon (PSF).png",
+      "subcategories": [
+        {
+          "id": "wagons",
+          "title": "Wagons",
+          "images": [
+            {
+              "file": "Covered Wagon (PSF).png",
+              "title": "Covered wagon",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Covered_Wagon_(PSF).png"
+            },
+            {
+              "file": "Stagecoach (PSF).png",
+              "title": "Stagecoach",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Stagecoach_(PSF).png"
+            },
+            {
+              "file": "Prairie schooner (PSF).png",
+              "title": "Prairie schooner",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Prairie_schooner_(PSF).png"
+            },
+            {
+              "file": "Garden phaeton.jpg",
+              "title": "Phaeton carriage",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Garden_phaeton.jpg"
+            },
+            {
+              "file": "Sedan chair (PSF).png",
+              "title": "Sedan chair",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Sedan_chair_(PSF).png"
+            }
+          ]
+        },
+        {
+          "id": "boats",
+          "title": "Ships & Boats",
+          "images": [
+            {
+              "file": "Dinghy (PSF).png",
+              "title": "Dinghy",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Dinghy_(PSF).png"
+            },
+            {
+              "file": "Dory - boat (PSF).png",
+              "title": "Dory",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Dory_-_boat_(PSF).png"
+            },
+            {
+              "file": "Caique (PSF).jpg",
+              "title": "Caique",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Caique_(PSF).jpg"
+            },
+            {
+              "file": "Barque-sesostris3.jpg",
+              "title": "Barque",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Barque-sesostris3.jpg"
+            },
+            {
+              "file": "Chaika viyskova Boplan 1660.png",
+              "title": "Historic boat",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Chaika_viyskova_Boplan_1660.png"
+            }
+          ]
+        },
+        {
+          "id": "fantasy",
+          "title": "Fantasy Vehicles",
+          "images": [
+            {
+              "file": "Airship.png",
+              "title": "Airship",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Airship.png"
+            },
+            {
+              "file": "Dinghy (PSF).png",
+              "title": "Small boat",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Dinghy_(PSF).png"
+            },
+            {
+              "file": "Stagecoach (PSF).png",
+              "title": "Coach",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Stagecoach_(PSF).png"
+            },
+            {
+              "file": "Ancient Greek racing chariot.jpg",
+              "title": "Chariot",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Ancient_Greek_racing_chariot.jpg"
+            }
+          ]
+        },
+        {
+          "id": "other",
+          "title": "Other Vehicles",
+          "images": [
+            {
+              "file": "Tractor (PSF).png",
+              "title": "Tractor",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Tractor_(PSF).png"
+            },
+            {
+              "file": "Motorcycle2 (PSF).png",
+              "title": "Motorcycle",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Motorcycle2_(PSF).png"
+            },
+            {
+              "file": "Stroller (PSF).png",
+              "title": "Cart / stroller",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Stroller_(PSF).png"
+            },
+            {
+              "file": "Toboggan (PSF).png",
+              "title": "Sled",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Toboggan_(PSF).png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "monsters",
+      "title": "Monsters",
+      "description": "Dragons, creatures and strange things for story maps.",
+      "cover": "WingedDragon-bw.png",
+      "subcategories": [
+        {
+          "id": "dragons",
+          "title": "Dragons",
+          "images": [
+            {
+              "file": "WingedDragon-bw.png",
+              "title": "Winged dragon",
+              "creator": "Special Collections, University of Houston Libraries",
+              "license": "CC0 1.0",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:WingedDragon-bw.png"
+            },
+            {
+              "file": "Amphiptere.jpg",
+              "title": "Amphiptere",
+              "creator": "Edward Topsell",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Amphiptere.jpg"
+            },
+            {
+              "file": "\"Hydra de Lerna\".jpg",
+              "title": "Hydra",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:%22Hydra_de_Lerna%22.jpg"
+            },
+            {
+              "file": "51 Hidro.svg",
+              "title": "Hydra / serpent",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:51_Hidro.svg"
+            },
+            {
+              "file": "AliceInWonderland5.png",
+              "title": "Storybook dragon",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:AliceInWonderland5.png"
+            },
+            {
+              "file": "A Hundred Fables of La Fontaine - The Dragon with many Heads.png",
+              "title": "Many-headed dragon",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:A_Hundred_Fables_of_La_Fontaine_-_The_Dragon_with_many_Heads.png"
+            }
+          ]
+        },
+        {
+          "id": "giants",
+          "title": "Giants",
+          "images": [
+            {
+              "file": "\"Hydra de Lerna\".jpg",
+              "title": "Hydra",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:%22Hydra_de_Lerna%22.jpg"
+            },
+            {
+              "file": "Ynglingesaga 14 Gerhard Munthe.jpg",
+              "title": "Mythic creature",
+              "creator": "Gerhard Munthe",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Ynglingesaga_14_Gerhard_Munthe.jpg"
+            },
+            {
+              "file": "Deerhound (PSF).png",
+              "title": "Large animal reference",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Deerhound_(PSF).png"
+            },
+            {
+              "file": "Horse (PSF).png",
+              "title": "Large animal reference",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Horse_(PSF).png"
+            }
+          ]
+        },
+        {
+          "id": "undead",
+          "title": "Undead & Demons",
+          "images": [
+            {
+              "file": "Zamorski diabeł p051.jpg",
+              "title": "Demon-like creature",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Zamorski_diabe%C5%82_p051.jpg"
+            },
+            {
+              "file": "\"Hydra de Lerna\".jpg",
+              "title": "Hydra",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:%22Hydra_de_Lerna%22.jpg"
+            },
+            {
+              "file": "51 Hidro.svg",
+              "title": "Serpent creature",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:51_Hidro.svg"
+            },
+            {
+              "file": "Ynglingesaga 14 Gerhard Munthe.jpg",
+              "title": "Mythic creature",
+              "creator": "Gerhard Munthe",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Ynglingesaga_14_Gerhard_Munthe.jpg"
+            }
+          ]
+        },
+        {
+          "id": "creatures",
+          "title": "Fantasy Creatures",
+          "images": [
+            {
+              "file": "WingedDragon-bw.png",
+              "title": "Winged dragon",
+              "creator": "Special Collections, University of Houston Libraries",
+              "license": "CC0 1.0",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:WingedDragon-bw.png"
+            },
+            {
+              "file": "Amphiptere.jpg",
+              "title": "Amphiptere",
+              "creator": "Edward Topsell",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Amphiptere.jpg"
+            },
+            {
+              "file": "AliceInWonderland5.png",
+              "title": "Storybook creature",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:AliceInWonderland5.png"
+            },
+            {
+              "file": "A Hundred Fables of La Fontaine - The Dragon with many Heads.png",
+              "title": "Many-headed dragon",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:A_Hundred_Fables_of_La_Fontaine_-_The_Dragon_with_many_Heads.png"
+            },
+            {
+              "file": "Zamorski diabeł p051.jpg",
+              "title": "Demon-like creature",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Zamorski_diabe%C5%82_p051.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "objects",
+      "title": "Objects",
+      "description": "Small map details that make a place feel lived-in.",
+      "cover": "Dice (PSF).png",
+      "subcategories": [
+        {
+          "id": "chests",
+          "title": "Chests",
+          "images": [
+            {
+              "file": "BookOfNurseryRhymes p114.JPG",
+              "title": "Book",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:BookOfNurseryRhymes_p114.JPG"
+            },
+            {
+              "file": "Scarab (PSF).png",
+              "title": "Scarab",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Scarab_(PSF).png"
+            },
+            {
+              "file": "Scarab2 (PSF).png",
+              "title": "Scarab side view",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Scarab2_(PSF).png"
+            },
+            {
+              "file": "37 Physical Objects.jpg",
+              "title": "Object study",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:37_Physical_Objects.jpg"
+            }
+          ]
+        },
+        {
+          "id": "containers",
+          "title": "Barrels & Containers",
+          "images": [
+            {
+              "file": "Barrel-detail-RP-P-1985-111.png",
+              "title": "Barrel",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Barrel-detail-RP-P-1985-111.png"
+            },
+            {
+              "file": "37 Physical Objects.jpg",
+              "title": "Object study",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:37_Physical_Objects.jpg"
+            },
+            {
+              "file": "Dice (PSF).png",
+              "title": "Dice",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Dice_(PSF).png"
+            }
+          ]
+        },
+        {
+          "id": "tools",
+          "title": "Tools & Camp Gear",
+          "images": [
+            {
+              "file": "Flashlight (PSF).png",
+              "title": "Lantern / flashlight",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Flashlight_(PSF).png"
+            },
+            {
+              "file": "Taper candle w large flame.svg",
+              "title": "Candle",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Taper_candle_w_large_flame.svg"
+            },
+            {
+              "file": "Barrel-detail-RP-P-1985-111.png",
+              "title": "Barrel",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Barrel-detail-RP-P-1985-111.png"
+            },
+            {
+              "file": "37 Physical Objects.jpg",
+              "title": "Object study",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:37_Physical_Objects.jpg"
+            }
+          ]
+        },
+        {
+          "id": "books",
+          "title": "Books & Scrolls",
+          "images": [
+            {
+              "file": "BookOfNurseryRhymes p114.JPG",
+              "title": "Book",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:BookOfNurseryRhymes_p114.JPG"
+            },
+            {
+              "file": "Dice (PSF).png",
+              "title": "Dice",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Dice_(PSF).png"
+            },
+            {
+              "file": "37 Physical Objects.jpg",
+              "title": "Object study",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:37_Physical_Objects.jpg"
+            }
+          ]
+        },
+        {
+          "id": "misc",
+          "title": "Signs & Flags",
+          "images": [
+            {
+              "file": "Taper candle w large flame.svg",
+              "title": "Candle",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Taper_candle_w_large_flame.svg"
+            },
+            {
+              "file": "Scarab (PSF).png",
+              "title": "Scarab",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Scarab_(PSF).png"
+            },
+            {
+              "file": "Flashlight (PSF).png",
+              "title": "Lantern",
+              "creator": "Pearson Scott Foresman",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:Flashlight_(PSF).png"
+            },
+            {
+              "file": "37 Physical Objects.jpg",
+              "title": "Object study",
+              "creator": "Unknown",
+              "license": "Public domain",
+              "tags": [],
+              "source": "https://commons.wikimedia.org/wiki/File:37_Physical_Objects.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

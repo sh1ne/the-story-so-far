@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f3efe6">
+<meta name="description" content="The Story So Far companion app for drawing references and finished map memories.">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="The Story So Far">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon.svg">
+<link rel="stylesheet" href="styles.css">
+<title>The Story So Far</title>
+</head>
+<body>
+<div id="app">
+  <header class="topbar">
+    <button class="icon-btn" id="backBtn" aria-label="Back" hidden>‹</button>
+    <div class="brand" aria-label="The Story So Far">THE STORY SO FAR</div>
+    <button class="icon-btn" id="homeBtn" aria-label="Home">⌂</button>
+  </header>
+
+  <main id="view" tabindex="-1"></main>
+</div>
+
+<nav class="bottom-nav" aria-label="Main navigation">
+  <button class="nav-btn active" data-nav="categories"><span>⌂</span><small>Drawing References</small></button>
+  <button class="nav-btn" data-nav="maps"><span>▧</span><small>Maps</small></button>
+</nav>
+
+<div class="viewer" id="viewer" hidden>
+  <button class="viewer-close" id="viewerClose" aria-label="Close">×</button>
+  <button class="viewer-arrow left" id="viewerPrev" aria-label="Previous">‹</button>
+  <div class="viewer-stage" id="viewerStage"><img id="viewerImg" alt=""></div>
+  <button class="viewer-arrow right" id="viewerNext" aria-label="Next">›</button>
+  <div class="viewer-caption" id="viewerCaption"></div>
+  <div class="viewer-hint">Pinch or double-tap to zoom · swipe to change</div>
+</div>
+
+<div class="sheet" id="sheet" hidden>
+  <div class="sheet-inner">
+    <button class="sheet-option" id="takePhoto">Take Photo</button>
+    <button class="sheet-option" id="choosePhoto">Choose From Photos</button>
+    <button class="sheet-cancel" id="cancelSheet">Cancel</button>
+  </div>
+</div>
+
+<input id="cameraInput" class="file-input" type="file" accept="image/*" capture="environment">
+<input id="photoInput" class="file-input" type="file" accept="image/*">
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
